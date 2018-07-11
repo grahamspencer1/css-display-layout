@@ -20,3 +20,13 @@ nav {
   border: 5px;
   margin: 5px;
 }
+p {
+  font-size: 20px;
+  font-family: Helvetica;
+  color: black;
+  background-color: turquoise;
+  content: 20px;
+  padding: 20px;
+  border: 20px;
+  margin: 20px;
+}
